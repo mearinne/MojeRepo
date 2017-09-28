@@ -1,2 +1,2 @@
-#MyApp
-Toto je zkušební repository
+# MyApp
+Toto je zkušební repository, fooorever
